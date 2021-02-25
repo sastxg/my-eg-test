@@ -1,3 +1,3 @@
 proc print data=sashelp.class;
-  where sex="M";
+  where sex="F";
 run;
