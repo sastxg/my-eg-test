@@ -16,5 +16,5 @@ proc g3d data=hat;
    plot y*x=z / ctop=red ctext=purple;
 run; 
 
-/* test */
+/* foo */
 
