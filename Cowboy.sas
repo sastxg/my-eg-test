@@ -16,5 +16,5 @@ proc g3d data=hat;
    plot y*x=z / ctop=red ctext=purple;
 run; 
 
-/* testing push over ssh from alderaan */
+/* testing push over ssh from laptop */
 
